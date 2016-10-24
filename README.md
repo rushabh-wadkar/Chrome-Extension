@@ -1,2 +1,5 @@
 # Chrome-Extension
-This is a chrome extension which modifies your "New Tab" in Chrome with some awesome inspirational quotes and beautiful high definition nature images as background.
+<hr>
+This is a chrome extension which modifies your <b><em>"New Tab"</em></b> in Chrome with some awesome <u>inspirational quotes and beautiful high definition nature images</u> as background.
+<hr>
+You can download the extension from <a href="https://github.com/rushabh-wadkar/Chrome-Extension/">here</a>.
