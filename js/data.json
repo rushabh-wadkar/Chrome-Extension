@@ -1,0 +1,110 @@
+var quotes = [
+			{
+				"qouteText" : "Even if you're on the right track, you'll get run over if you just sit there.",
+				"author" : "Will Rogers"
+			},
+			{
+				"qouteText" : "Everything you've ever wanted is on the other side of fear.",
+				"author" : "George Addair"
+			},
+			{
+				"qouteText" : "In between, an unknown person said “hello!”, and a known person said “goodbye!” <br> All the stories lies!",
+				"author" : "Neha Sinha"
+			},
+			{
+				"qouteText" : "The more I want to get something done, the less I call it work.",
+				"author" : "Richard Bach"
+			},
+			{
+				"qouteText" : "There are no short cuts to any place worth going.",
+				"author" : "Beverly Sills"
+			},
+			{
+				"qouteText" : "If you can't outplay them, outwork them.",
+				"author" : "Ben Hogan"
+			},
+			{
+				"qouteText" : "I will go anywhere as long as it is forward.",
+				"author" : "David Livingston"
+			},
+			{
+				"qouteText" : "Before asking for tomorrow make today count.",
+				"author" : "Neha Sinha"
+			},
+			{
+				"qouteText" : "If you want to live a happy life,<br>tie it to a goal, not to people or objects.",
+				"author" : "Albert Einstein"
+			},
+			{
+				"qouteText" : "Turn around the page, let not one end scares you!",
+				"author" : "Neha Sinha"
+			},
+			{
+				"qouteText" : "She Painted his world with the best colors she had for herself",
+				"author" : "Neha Sinha"
+			},
+			{
+				"qouteText" : "Everything whose presence could have made her strong,<br>made her strongest in their absence",
+				"author" : "Neha Sinha"
+			},
+			{
+				"qouteText" : "In the end, we are all fighting for the things,<br>we think we deserved",
+				"author" : "Neha Sinha"
+			},
+			{
+				"qouteText" : "The most common way people give up their power is<br>by thinking they don't have any.",
+				"author" : "Alice Walker"
+			},
+			{
+				"qouteText" : "You can never cross the ocean until you have the courage to<br>lose sight of the shore.",
+				"author" : "Christopher Columbus"
+			},
+			{
+				"qouteText" : "Whether you think you can or you think you can't, you're right.",
+				"author" : "Henry Ford"
+			},
+			{
+				"qouteText" : "Too many of us are not living our dreams because we are living our fears.",
+				"author" : "Les Brown"
+			},
+			{
+				"qouteText" : "Build your own dreams, or someone else will hire you to build theirs.",
+				"author" : "Farrah Gray"
+			},
+			{
+				"qouteText" : "Some people are so broken that they are afraid to be complete again.",
+				"author" : "Neha Sinha"
+			},
+			{
+				"qouteText" : "Either the wait will end or your willing to wait will end.",
+				"author" : "Neha Sinha"
+			},
+			{
+				"qouteText" : "Better to write for yourself and have no public,<br>than to write for the public and have no self.",
+				"author" : "Cyril Connolly"
+			},
+			{
+				"qouteText" : "Do what you feel in your heart to be right, for you'll be criticized anyway.",
+				"author" : "Eleanor Roosevelt"
+			},
+			{
+				"qouteText" : "The only way to do great work is to love what you do.",
+				"author" : "Steve Jobs"
+			},
+			{
+				"qouteText" : "Either write something worth reading or do something worth writing.",
+				"author" : "Benjamin Franklin"
+			},
+			{
+				"qouteText" : "Rethink about your relationship..<br>when letting go and staying in both is hard, equally",
+				"author" : "Neha Sinha"
+			},
+			{
+				"qouteText" : "If you do what you've always done, <br>you'll get what you've always gotten.",
+				"author" : "Tony Robbins"
+			},
+			{
+				"qouteText" : "We both were there for each other even if each one of us<br>was <em>struggling</em> in their own life",
+				"author" : "Neha Sinha"
+			},
+	];

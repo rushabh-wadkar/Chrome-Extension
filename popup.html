@@ -1,0 +1,50 @@
+<!doctype html>
+
+<html>
+  <head>
+    <title>Getting Started Extension's Popup</title>
+		<style>
+			@font-face{
+					font-family: Roboto;
+					src: url("fonts/Roboto-Regular.ttf");
+				}
+			html{
+				height: auto;
+				width: 300px;
+				padding: 5px;
+			}
+			*{
+				font-family: Roboto;
+				color: white;
+			}
+			#quote {
+				color: white;
+				text-shadow: 2px 2px 10px #737373;
+			}
+			body { 
+				background: rgba(0,0,0,1); 
+				-webkit-background-size: cover;
+				-moz-background-size: cover;
+				-o-background-size: cover;
+				background-size: cover;
+				z-index: -99;
+			}
+			</style>
+    <script src="popup.js"></script>
+  </head>
+  <body>
+			<center>
+					<h3>Quotes</h3>
+				<hr>
+						<p id="quote">
+							<span id="quoteIcon">"<span id="text">Either the wait will end or your willing to wait will end.</span>"
+						</p>
+							</center>
+						<br>
+						<span id="authorName" style="float: right">- Neha Sinha</span>
+					
+		<script src="js/data.json"></script>
+		<script src="js/popupScript.js"></script>
+  </body>
+</html>
+

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>New Tab with Quotes</title>
+    <link href="css/style.css" rel="stylesheet">
+	  
+  </head>
+  <body id="bodyId">
+			<div class="wrapper">
+				<div class="message">
+					<div class="footer">
+						<p><b>Designed with ♥ by <a href="https://about.me/rushabh_wadkar">Rushabh Wadkar.</a> <span style='float: right;'>Quotes compiled by <a href="https://www.facebook.com/spitefultraveller.neha?ref=br_rs">Neha Sinha</a></span></b></p>
+					</div>
+					
+					<div class="TimeDisplay">
+						<div id="timeHeader">
+							<span id="time"><center>loading..</center></span>
+						</div>  
+					</div>
+					
+					<div class="box_quotes">
+						<p id="quote"><span id="quoteIcon"><img src="images/quote-icon1.png" height="20"></span> <span id="text">Either the wait will end or your willing to wait will end.</span><span id="quoteIcon"><img src="images/quote-icon1.png" height="20" style=" transform: rotate(180deg);"></span></p>
+						<br><span id="authorName">- Neha Sinha</span>
+					</div>
+				</div>
+			</div>
+			<script src="js/myscript.js"></script>
+	  <script>
+		  window.onload = function(){
+			  displayTime();
+				changeAfter();
+		  }
+	  </script>
+		<script type="text/javascript" src="js/data.json"></script>
+  </body>
+</html>

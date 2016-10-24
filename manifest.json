@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+
+  "name": "Quotes NEWTAB Stylus",
+  "description": "This extension customizes the new tab of chrome.",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "images/logo64.png",
+    "default_popup": "popup.html"
+  },
+	"icons" :{
+			"64" : "images/logo64.png"			
+	},
+	"chrome_url_overrides": {
+					"newtab": "index.html"
+	},
+  "permissions": [
+    "activeTab"
+  ]
+}
